@@ -14,7 +14,7 @@ public class App {
         String encryptResult = CeaserCipher.isEncrypt(stringSentence, userKey);  //create an instance of encrypt class and call isEncrypt method
         String decryptResult = CeaserCipher.runDecrypt(stringSentence,userKey);  //create an instance of decrypt class and call isDecrypt method                                              
     
-        System.out.println("Choose A to Encrypt\nEnter Bto Decrypt");
+        System.out.println("Choose A to Encrypt\nEnter B to Decrypt");
 
         String userCeaserCipher = myConsole.readLine();
         String ceaserCiphers = userCeaserCipher.toLowerCase();
