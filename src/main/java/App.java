@@ -6,7 +6,7 @@ public class App {
         Console myConsole = System.console();
         System.out.println("Enter Sentence");
 
-        String stringSentence = myConcole.readLine();
+        String stringSentence = myConsole.readLine();
         System.out.println("Enter Key");
         String key = myConsole.readLine();
         int userKey = Integer.parseInt(key);  //Changing a string to an integer
