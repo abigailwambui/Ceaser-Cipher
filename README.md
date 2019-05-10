@@ -3,12 +3,12 @@
 Abigail Wambui
 
 
-#Project Name
+# Project Name
 
 Ceaser-Cipher
 
 
-#Description of The Project
+# Description of The Project
 
 Ceaser-Cipher is one of the simplest and most widely known encryption techniques.
 
@@ -17,7 +17,7 @@ It is a type of substitution cipher whereby each letter in the plaintext is repl
 For example, with a left shift of 3, D would be replaced by A, and E, B.
 
 
-#Project SetUp
+# Project SetUp
 
 Vs Code
 
@@ -25,7 +25,7 @@ Gradle
 
 Terminal
 
-#Copyright and license
+# Copyright and license
 
 MIT License
 
