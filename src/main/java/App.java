@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         CeaserCipher ceaserCipher = new CeaserCipher();
         Console myConsole = System.console();
-        System.out.println("Enter Sentence");
+        System.out.println("Enter a word");
 
         String stringSentence = myConsole.readLine();
         System.out.println("Enter Key");
